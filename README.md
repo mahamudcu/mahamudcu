@@ -1,16 +1,23 @@
-
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQFwsqrYgRGHYQ/profile-displaybackgroundimage-shrink_350_1400/0/1679828865990?e=1714003200&v=beta&t=xiB53eLbmeSrOTjBoscjqbv7IQfXsZhl1wtb_RXa3Q8)
+
 ### Hi there 👋, I’m syed mahamud 
 #### Web Developer
 
 I want to work in a challenging position where I can utilize my strong creativity and my analytical knowledge. I also dedicate to the organization's ultimate goal attainment with most sincerity and honesty
 
-Skills:  Ruby On Rails/JavaScript/ Angular 2+ /Ionic/ Nginx
-
+Skills summary:  Ruby On Rails/ Angular 2+ /Ionic
 - 🔭 I’m currently working on syftet ltd 
 - 🌱 I’m currently learning Ionic -7 
 - 👯 I’m looking to collaborate on github 
 
+Essential skills:
+- Ruby, JavaScript, TypeScript
+- HTML, CSS, Bootstrap, JQuery, Ajax
+- Sidekiq, Whenever, Resque
+- Nginx, Passenger, Stripe, Github, Apache
+- Heroku, AWS, DigitalOcean
+- MySQL, Postgresql
+    
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahamudcu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/syed-mahamud25/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SyedMahamud3?t=Z8MwxksIeCZWFuGwagnJ9w&s=09)  
 
