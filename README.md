@@ -2,10 +2,10 @@
 
 ### Hi there 👋, I’m syed mahamud 
 #### Web Developer
-
+Web Application developer specializing in backend frontend development. Experienced with all stages of the development cycle for dynamic web applications. Well-versed in Ruby On Rails, Angular, IONIC framework. Graduated from City University in CSE.
 I want to work in a challenging position where I can utilize my strong creativity and my analytical knowledge. I also dedicate to the organization's ultimate goal attainment with most sincerity and honesty
 
-Skills summary:  Ruby On Rails/ Angular 2+ /Ionic
+#### 🛠Skills summary:  Ruby On Rails/ Angular 2+ /Ionic
 - 🔭 I’m currently working on syftet ltd 
 - 🌱 I’m currently learning Ionic -7 
 - 👯 I’m looking to collaborate on github 
