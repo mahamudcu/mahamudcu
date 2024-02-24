@@ -1,8 +1,9 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQFwsqrYgRGHYQ/profile-displaybackgroundimage-shrink_350_1400/0/1679828865990?e=1714003200&v=beta&t=xiB53eLbmeSrOTjBoscjqbv7IQfXsZhl1wtb_RXa3Q8)
 
 ### Hi there 👋, I’m syed mahamud 
-#### Web Developer
+
 Web Application developer specializing in backend frontend development. Experienced with all stages of the development cycle for dynamic web applications. Well-versed in Ruby On Rails, Angular, IONIC framework. Graduated from City University in CSE.
+
 I want to work in a challenging position where I can utilize my strong creativity and my analytical knowledge. I also dedicate to the organization's ultimate goal attainment with most sincerity and honesty
 
 #### Skills summary:  Ruby On Rails/ Angular 2+ /Ionic
@@ -13,9 +14,8 @@ I want to work in a challenging position where I can utilize my strong creativit
 🛠 Essential skills:
 - Ruby, JavaScript, TypeScript
 - HTML, CSS, Bootstrap, JQuery, Ajax
-- Sidekiq, Whenever, Resque
-- Nginx, Passenger, Stripe, Github, Apache
-- Heroku, AWS, DigitalOcean
+- Nginx, Passenger, Apache
+- AWS, DigitalOcean, Heroku, Stripe, Github
 - MySQL, Postgresql
     
 
