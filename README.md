@@ -9,9 +9,8 @@ I want to work in a challenging position where I can utilize my strong creativit
 #### Skills summary:  Ruby On Rails/ Angular 2+ /Ionic
 - I’m currently working on syftet ltd 
 - I’m currently learning Ionic -7 
-- I’m looking to collaborate on github 
 
-🛠 Essential skills:
+##### 🛠 Essential skills:
 - Ruby, JavaScript, TypeScript
 - HTML, CSS, Bootstrap, JQuery, Ajax
 - Nginx, Passenger, Apache
